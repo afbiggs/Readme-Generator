@@ -1,1 +1,40 @@
-# Readme-Generator
+
+  ![LicenseType](https://img.shields.io/badge/License%3A%20-MIT-green)
+  # Readme-Generator 
+  
+  ## Description
+  
+  * This application is a professional README generator. A user will be prompted answer a 
+  
+  ## Table of Contents
+  
+  * [Installation Instructions](#Installation-Instructions)
+  * [Usage](#Usage)
+  * [Contributing](#Contributing)
+  * [Tests](#Tests)
+  * [License](#License)
+  * [Acknowledgements](#Acknowledgements)
+  * [Questions](#Questions)
+  
+  ## Installation Instructions
+  
+  * In order to use the application, users must clone the repository and make sure the correct Node Package Manager (npm) is installed. The user will then need to input the proper command "node index.js" into the command-line in order to run the application.
+  
+  ## Usage
+  
+  * Anyone who needs to create a readme file with all the proper categories can use this application 
+  
+  ## Contributing
+  
+  * Anyone is free to clone this repository and use this application. Please credit Alex Biggs - https://github.com/afbiggs if the repo is cloned and used.
+    
+  ## Tests
+  
+  * No major tests have been done for this project. It has only been ran and tested locally .
+  
+  ## License
+  
+  * This application is licensed under the MIT license type.
+  
+  ## Questions
+  * If you have any questions regarding the application, please reach out to **Alex Biggs ** (the creator), at their GitHub profile located here: **https://github.com/afbiggs**, or via email at **afbiggs73@gmail.com**.
