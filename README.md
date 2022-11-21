@@ -4,7 +4,7 @@
   
   ## Description
   
-  * This application is a professional README generator. A user will be prompted answer a 
+  * This application is a professional README generator. The application utilizes the Inquirer Node Package Manager in order to allow for prompts and a user's input. A user will be prompted answer a series of questions and at the end, the qustions, answers, section titles, and a table of contents will be auto-generated and filled with the user's inputs. 
   
   ## Table of Contents
   
@@ -22,8 +22,12 @@
   
   ## Usage
   
-  * Anyone who needs to create a readme file with all the proper categories can use this application 
-  
+  * Anyone who needs to create a readme file with all the proper categories can use this application. Bellow are images showing the prompted questions by the app and also a readme that has been generated. This web link will take you to a video demonstration and walk through on how to run the application and its functionality. 
+
+![](/media/Questions.png)
+![](/media/generated-readme.png)
+
+  * Link to access to video walk through: https://www.awesomescreenshot.com/video/12654746?key=62f1841afc4a377a491d3699a45d79ff
   ## Contributing
   
   * Anyone is free to clone this repository and use this application. Please credit Alex Biggs - https://github.com/afbiggs if the repo is cloned and used.
