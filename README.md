@@ -4,7 +4,7 @@
   
   ## Description
   
-  * This application is a professional README generator. The application utilizes the Inquirer Node Package Manager in order to allow for prompts and a user's input. A user will be prompted answer a series of questions and at the end, the qustions, answers, section titles, and a table of contents will be auto-generated and filled with the user's inputs. 
+  * This application is a professional README generator. The application utilizes the Inquirer Node Package Manager in order to allow for prompts and a user's input. A user will be prompted answer a series of questions and at the end, the questions ons, answers, section titles, and a table of contents will be auto-generated and filled with the user's inputs. 
   
   ## Table of Contents
   
