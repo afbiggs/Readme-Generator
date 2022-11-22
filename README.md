@@ -27,7 +27,7 @@
 ![](/media/Questions.png)
 ![](/media/generated-readme.png)
 
-  * Link to access to video walk through: https://www.awesomescreenshot.com/video/12654746?key=62f1841afc4a377a491d3699a45d79ff
+  * Link to access video walk through of the application: https://www.awesomescreenshot.com/video/12654746?key=62f1841afc4a377a491d3699a45d79ff
   ## Contributing
   
   * Anyone is free to clone this repository and use this application. Please credit Alex Biggs - https://github.com/afbiggs if the repo is cloned and used.
