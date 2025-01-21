@@ -41,4 +41,4 @@
   * This application is licensed under the MIT license type.
   
   ## Questions
-  * If you have any questions regarding the application, please reach out to **Alex Biggs ** (the creator), at their GitHub profile located here: **https://github.com/afbiggs**, or via email at **afbiggs73@gmail.com**.
+  * If you have any questions regarding the application, please reach out to **Alex Biggs ** (the creator), at their GitHub profile located here: **https://github.com/afbiggs**
